@@ -1,5 +1,5 @@
 # TrainApp
-Coursework Process resulting in Full Native Desktop App
+Coursework Project resulting in Full Native Desktop App
 
 ### ToolChain
  `Visual Studio 2022`
