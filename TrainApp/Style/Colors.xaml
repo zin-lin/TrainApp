@@ -1,0 +1,124 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:TrainApp">
+    <!-- 1-->
+    
+    <Color x:Key="ThemedColor">#ffffab91</Color>
+    <SolidColorBrush  x:Key="Themed" Color="{StaticResource ThemedColor}"></SolidColorBrush>
+
+    <!-- 2-->
+
+    <Color x:Key="Light">#55ef34</Color>
+    <SolidColorBrush  x:Key="Light Leave" Color="{StaticResource Light}"></SolidColorBrush>
+
+    <!-- 3-->
+
+    <Color x:Key="Messenger">#ac006AFF</Color>
+    <SolidColorBrush  x:Key="Messenger Blue" Color="{StaticResource Messenger}"></SolidColorBrush>
+    
+    <!-- 4-->
+
+    <Color x:Key="Leave">#57d0a3</Color>
+    <SolidColorBrush  x:Key="SpringBoot" Color="{StaticResource Leave}"></SolidColorBrush>
+    
+    <!-- 5-->
+
+    <Color x:Key="Yellow">#eeeee343</Color>
+    <SolidColorBrush  x:Key="SpringBreak" Color="{StaticResource Yellow}"></SolidColorBrush>
+ 
+    <!-- 6-->
+
+    <Color x:Key="Red">#eeee1111</Color>
+    <SolidColorBrush  x:Key="BritishBlood" Color="{StaticResource Red}"></SolidColorBrush>
+
+    <!-- 7-->
+
+    <Color x:Key="Redoo">#ffff1222</Color>
+    <SolidColorBrush  x:Key="BrightRed" Color="{StaticResource Redoo}"></SolidColorBrush>
+
+    <!-- 8-->
+
+    <Color x:Key="ZannBayyColor">#ffff7777</Color>
+    <SolidColorBrush  x:Key="ZannBayyTheme" Color="{StaticResource ZannBayyColor}"></SolidColorBrush>
+
+    <!-- 9-->
+
+    <Color x:Key="Sex">#dddd8888</Color>
+    <SolidColorBrush  x:Key="Sorveral" Color="{StaticResource Sex}"></SolidColorBrush>
+
+    <!-- 10-->
+
+    <Color x:Key="ContrastXox">#d6daeb</Color>
+    <SolidColorBrush  x:Key="XoxBrush" Color="{StaticResource ContrastXox}"></SolidColorBrush>
+
+    <!-- 11-->
+
+    <Color x:Key="Chess">#5557eeaa</Color>
+    <SolidColorBrush  x:Key="ChessPlayer" Color="{StaticResource Chess}"></SolidColorBrush>
+
+    <!-- 12-->
+
+    <Color x:Key="Sdf">#11eeaa</Color>
+    <SolidColorBrush  x:Key="SpringBreif" Color="{StaticResource Sdf}"></SolidColorBrush>
+
+
+    <!-- 13-->
+
+    <Color x:Key="Vio">#ee82ff</Color>
+    <SolidColorBrush  x:Key="Violet" Color="{StaticResource Vio}"></SolidColorBrush>
+
+    <!-- 14-->
+    <Color x:Key="ccc">#fbfbfb</Color>
+    <SolidColorBrush  x:Key="White" Color="{StaticResource ccc}"></SolidColorBrush>
+    
+    
+    <!-- 15-->
+    <Color x:Key="fff">#eee</Color>
+    <SolidColorBrush  x:Key="Soft White" Color="{StaticResource fff}"></SolidColorBrush>
+
+
+    <!-- 16-->
+    <Color x:Key="ddd">#989898</Color>
+    <SolidColorBrush  x:Key="Light Grey" Color="{StaticResource ddd}"></SolidColorBrush>
+
+    <!-- 17-->
+    <Color x:Key="aaac">#353535</Color>
+    <SolidColorBrush  x:Key="Dark Grey" Color="{StaticResource aaac}"></SolidColorBrush>
+
+    <!-- 18-->
+    <Color x:Key="aabc">#45abc5</Color>
+    <SolidColorBrush  x:Key="SpringLight" Color="{StaticResource aabc}"></SolidColorBrush>
+
+    <!-- 19-->
+    <Color x:Key="aacc">#d3d3d3</Color>
+    <SolidColorBrush  x:Key="Dark White" Color="{StaticResource aacc}"></SolidColorBrush>
+
+
+
+    <!-- 20-->
+    <Color x:Key="Feel Orange">#ffeab1</Color>
+    <SolidColorBrush  x:Key="Feel Orange 1" Color="{StaticResource Feel Orange}"></SolidColorBrush>
+
+
+    <!-- 21-->
+    <Color x:Key="der">#43abc5</Color>
+    <SolidColorBrush  x:Key="Cyanic" Color="{StaticResource der}"></SolidColorBrush>
+
+    <Color x:Key="dark cyanide">#314255</Color>
+    <SolidColorBrush x:Key="Dark Cyanide" Color="{StaticResource dark cyanide}"></SolidColorBrush>
+
+    <Color x:Key="dcc">#2f4553</Color>
+    <SolidColorBrush x:Key="dark bluish green" Color="{StaticResource dcc}"></SolidColorBrush>
+
+    <Color x:Key="Diaz">#73939c</Color>
+
+
+    <Color x:Key="db">#00008b</Color>
+    <SolidColorBrush  x:Key="sdb" Color="{StaticResource db}"></SolidColorBrush>
+
+    <Color x:Key="sol">#fdf6e3</Color>
+    <SolidColorBrush  x:Key="ssol" Color="{StaticResource sol}"></SolidColorBrush>
+
+
+
+</ResourceDictionary>
